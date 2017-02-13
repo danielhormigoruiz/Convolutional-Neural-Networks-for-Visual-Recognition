@@ -1,2 +1,2 @@
-# cs231n
-Repository with cs231n course code
+# Standford University CS231n: Convolutional Neural Networks for Visual Recognition 
+Repository with CS231n course code
